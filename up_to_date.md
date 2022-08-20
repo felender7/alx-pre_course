@@ -1,2 +1,2 @@
-* The command I used to update my local branch 
-*** "git pull"
+### The command I used to update my local branch 
+* "git pull"
